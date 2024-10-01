@@ -1,0 +1,14 @@
+C:\Users\yasar\source\repos\Patika+\Week1\patika_w1_if_else\patika_w1_if_else\bin\Debug\net8.0\patika_w1_if_else.exe
+C:\Users\yasar\source\repos\Patika+\Week1\patika_w1_if_else\patika_w1_if_else\bin\Debug\net8.0\patika_w1_if_else.deps.json
+C:\Users\yasar\source\repos\Patika+\Week1\patika_w1_if_else\patika_w1_if_else\bin\Debug\net8.0\patika_w1_if_else.runtimeconfig.json
+C:\Users\yasar\source\repos\Patika+\Week1\patika_w1_if_else\patika_w1_if_else\bin\Debug\net8.0\patika_w1_if_else.dll
+C:\Users\yasar\source\repos\Patika+\Week1\patika_w1_if_else\patika_w1_if_else\bin\Debug\net8.0\patika_w1_if_else.pdb
+C:\Users\yasar\source\repos\Patika+\Week1\patika_w1_if_else\patika_w1_if_else\obj\Debug\net8.0\patika_w1_if_else.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yasar\source\repos\Patika+\Week1\patika_w1_if_else\patika_w1_if_else\obj\Debug\net8.0\patika_w1_if_else.AssemblyInfoInputs.cache
+C:\Users\yasar\source\repos\Patika+\Week1\patika_w1_if_else\patika_w1_if_else\obj\Debug\net8.0\patika_w1_if_else.AssemblyInfo.cs
+C:\Users\yasar\source\repos\Patika+\Week1\patika_w1_if_else\patika_w1_if_else\obj\Debug\net8.0\patika_w1_if_else.csproj.CoreCompileInputs.cache
+C:\Users\yasar\source\repos\Patika+\Week1\patika_w1_if_else\patika_w1_if_else\obj\Debug\net8.0\patika_w1_if_else.dll
+C:\Users\yasar\source\repos\Patika+\Week1\patika_w1_if_else\patika_w1_if_else\obj\Debug\net8.0\refint\patika_w1_if_else.dll
+C:\Users\yasar\source\repos\Patika+\Week1\patika_w1_if_else\patika_w1_if_else\obj\Debug\net8.0\patika_w1_if_else.pdb
+C:\Users\yasar\source\repos\Patika+\Week1\patika_w1_if_else\patika_w1_if_else\obj\Debug\net8.0\patika_w1_if_else.genruntimeconfig.cache
+C:\Users\yasar\source\repos\Patika+\Week1\patika_w1_if_else\patika_w1_if_else\obj\Debug\net8.0\ref\patika_w1_if_else.dll
